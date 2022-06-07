@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
 
 :root {
-  --main-color: #670b92;
-  --black: #6e0c86;
-  --bg: #822eb9b9;
+  --main-color: #be7925;
+  --black: #13131a;
+  --bg: #010103b9;
   --border: 0.1rem solid rgba(255, 255, 255, 0.3);
 }
 
@@ -159,7 +159,7 @@ section {
 .home .content h3 {
   font-size: 15rem;
   text-transform: uppercase;
-  color: #bb14d1;
+  color: #463908;
 }
 
 .home .content p {
